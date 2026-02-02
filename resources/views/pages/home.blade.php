@@ -31,7 +31,7 @@
             </div>
             <div class="testimonial">
                 <p>“Professional team and excellent support.”</p>
-                <strong>— XYZ Manufacturing</strong>
+                <strong>— XYZ test Manufacturing</strong>
             </div>
             <div class="testimonial">
                 <p>“Highly recommended for ERP and POS systems.”</p>
